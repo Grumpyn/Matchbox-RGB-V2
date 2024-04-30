@@ -11,7 +11,7 @@ Unfinished project at the stage of finished design which should work. However, t
 - 2 - G
 - 3 - B
 - 4 - IR (for external IR receiver)
-- 5 - 12V
+- 5 - 5/12V
 - 6 - GND
 
 ![mb](https://github.com/DaiveeCZ/Matchbox-RGB-V2/assets/83717170/d4e7f362-ba71-4d0a-965f-4f5cbd774573)
