@@ -1,4 +1,6 @@
 # Matchbox-RGB-V2
+![mb](https://github.com/DaiveeCZ/Matchbox-RGB-V2/assets/83717170/d4e7f362-ba71-4d0a-965f-4f5cbd774573)
+
 Control board for RGB LED strips, based on ESP8266 platform. Powered by DC jack and controlled by Wi-Fi. Option to connect an external IR receiver for additional IR remote control support.
 Unfinished project at the stage of finished design which should work. However, the board was never manufactured.
 
@@ -14,4 +16,4 @@ Unfinished project at the stage of finished design which should work. However, t
 - 5 - 5/12V
 - 6 - GND
 
-![mb](https://github.com/DaiveeCZ/Matchbox-RGB-V2/assets/83717170/d4e7f362-ba71-4d0a-965f-4f5cbd774573)
+
