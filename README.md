@@ -10,7 +10,7 @@ Unfinished project at the stage of finished design which should work. However, t
 - 1 - R
 - 2 - G
 - 3 - B
-- 4 - IR (fot external IR receiver)
+- 4 - IR (for external IR receiver)
 - 5 - 12V
 - 6 - GND
 
